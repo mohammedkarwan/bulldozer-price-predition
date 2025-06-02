@@ -49,7 +49,7 @@ ___
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Eng-yousef-khalaf/bulldozer-price-regression-project.git
+   https://github.com/mohammedkarwan/bulldozer-price-predition
 2. **Install dependencies:**
    ```bash
    pip install pandas numpy scikit-learn
